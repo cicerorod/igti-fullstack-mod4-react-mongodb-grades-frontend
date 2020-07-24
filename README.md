@@ -29,8 +29,7 @@ A aplicação necessita da API para retorno da votação. O Código pode ser bai
 - **[ReactJS](https://reactjs.org/)**
 - **[React Dom](https://www.npmjs.com/package/react-dom)**
 - **[Express](https://expressjs.com/pt-br/)**
-- **[DotEnv](https://www.npmjs.com/package/dotenv)**
-- **[Cors](https://www.npmjs.com/package/cors)**
+- **[DotEnv](https://www.npmjs.com/package/dotenv)*
 - **[Json](https://www.w3schools.com/js/js_json_intro.asp)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Nodemon](https://www.npmjs.com/package/nodemon)**
